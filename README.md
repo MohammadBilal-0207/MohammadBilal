@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Bilal</h1>
 <h3 align="center">A skilled QA engineer committed to delivering high-quality software</h3>
+<br>
 <img align="right" alt="Automation Testing" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/QA-Automation-EngineerMW.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbilal-0207&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbilal-0207" /> </p>
