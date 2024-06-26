@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BDD with Cucumber**
 
-- 💬 Ask me about **Testing, Automation, API Testing, Performance Testing(JMeter), Java, Python, TestNG, Databases, Bugs, Quality, Planning**
+- 💬 Ask me about **Testing, Automation, API Testing, Performance Testing(JMeter), Java, Python, TestNG, Databases, Bugs, Quality, Planning, Strategies**
 
 - 📫 How to reach me **mohammadbilal0207@gmail.com**
 
