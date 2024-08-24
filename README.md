@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammad Bilal</h1>
-<h3 align="center">A skilled QA engineer committed to delivering high-quality software</h3>
+<h3 align="center">A skilled QA Analyst committed to delivering high-quality software</h3>
 <br>
 <img align="right" alt="Automation Testing" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/QA-Automation-EngineerMW.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbilal-0207&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbilal-0207" /> </p>
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🌱 I’m currently learning **BDD with Cucumber**
+- 🌱 I’m currently learning **BDD with Behave**
 
-- 💬 Ask me about **Testing, Automation, API Testing, Performance Testing(JMeter), Java, Python, TestNG, Databases, Bugs, Quality, Planning, Strategies**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing, Performance Testing(JMeter), Security Testing(Burp Suite), Java, Python, TestNG, Databases, Bugs(Jira & MantisBT), Quality, Planning, Strategies**
 
 - 📫 How to reach me **mohammadbilal0207@gmail.com**
 
